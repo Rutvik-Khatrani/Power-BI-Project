@@ -23,6 +23,5 @@ This Power BI project aims to [briefly describe the purpose and objectives of th
 To use this Power BI project on your local machine.
 
 **Clone the Repository**:
-   ```bash
    https://github.com/Rutvik-Khatrani/Power-BI-Project.git
    https://github.com/Rutvik-Khatrani/Power-BI-Project/tree/Madhav-Sales-Dashboard
