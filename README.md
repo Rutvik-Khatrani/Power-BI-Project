@@ -27,3 +27,6 @@ To use this Power BI project on your local machine.
    
 **Madhav Sales Dashboard**:
    https://github.com/Rutvik-Khatrani/Power-BI-Project/tree/Madhav-Sales-Dashboard
+
+**Movie Recommendation System Dashboard**:
+   https://github.com/Rutvik-Khatrani/Power-BI-Project/tree/Movie-Recommendation-System-Dashboard
